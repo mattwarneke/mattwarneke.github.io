@@ -1,16 +1,11 @@
 {
-"companyName": "MattWarneke",
-"productName": "Labyrinth Defense",
-"productVersion": "2.6.2",
+"TOTAL_MEMORY": 268435456,
 "dataUrl": "WebGL.data.unityweb",
-"wasmCodeUrl": "WebGL.wasm.code.unityweb",
-"wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
-"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"asmCodeUrl": "WebGL.asm.code.unityweb",
+"asmMemoryUrl": "WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"},
-"developmentBuild": false,
-"multithreading": false,
-"unityVersion": "2019.1.4f1"
+"backgroundColor": "#231F20"
 }
