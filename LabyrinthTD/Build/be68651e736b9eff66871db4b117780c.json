@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LabyrinthTowerDefense",
+"productVersion": "1.0",
+"dataUrl": "e28d50d9d499bddd94a7f1472ba3a9fc.unityweb",
+"wasmCodeUrl": "a5f85cad289414eb38a3eddfc1ae9f5c.wasm",
+"wasmFrameworkUrl": "72bfa27492dbf0ef535c2ea38594503e.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
